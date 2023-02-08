@@ -12,3 +12,5 @@ If you want a more complex example (external libraries, viewers...), use the [Ad
 
 
 OK good
+
+Today is fine
